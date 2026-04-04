@@ -1,0 +1,15 @@
+Buat issue.md berisi planning untuk membuat ini:
+ 
+Buat projek baru di folder ini
+
+Menggunakan golang
+
+Dan menggunakan depedency :
+- gorm
+- gin
+- postgresql
+- jwt
+
+Instruksikan secara high level
+
+Instruksi ini akan digunakan oleh programmer entry level atau model yang lebih murah untuk diimplementasikan
